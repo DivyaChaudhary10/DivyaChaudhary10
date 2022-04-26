@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DivyaChaudhary10
+- 👋 Hi, I’m @DivyaChaudhary10FIRST
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html,css and javascript
 - 💞️ I’m looking to collaborate on web development
